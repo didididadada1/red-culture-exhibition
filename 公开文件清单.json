@@ -1,0 +1,255 @@
+{
+  "entry": "index.html",
+  "fileCount": 62,
+  "totalBytes": 277114260,
+  "files": [
+    {
+      "name": "source/万疆.mp3",
+      "bytes": 3745742
+    },
+    {
+      "name": "source/井冈山.mp4",
+      "bytes": 32105791
+    },
+    {
+      "name": "source/开国大典.mp4",
+      "bytes": 28547520
+    },
+    {
+      "name": "source/异国镜头里的延安.mp4",
+      "bytes": 33369201
+    },
+    {
+      "name": "source/红船：过去与未来.mp4",
+      "bytes": 41187453
+    },
+    {
+      "name": "source/西柏坡.mp4",
+      "bytes": 14559777
+    },
+    {
+      "name": "source/遵义会议背景.mp4",
+      "bytes": 4910947
+    },
+    {
+      "name": "source/长征背景.mp4",
+      "bytes": 9627673
+    },
+    {
+      "name": "diary-assets/bridge-gpt.png",
+      "bytes": 3037731
+    },
+    {
+      "name": "diary-assets/chishui-gpt.png",
+      "bytes": 2904183
+    },
+    {
+      "name": "diary-assets/local-gpt.png",
+      "bytes": 2086052
+    },
+    {
+      "name": "diary-assets/marsh-gpt.png",
+      "bytes": 2624567
+    },
+    {
+      "name": "diary-assets/memory-gpt.png",
+      "bytes": 2709370
+    },
+    {
+      "name": "diary-assets/north-gpt.png",
+      "bytes": 2492022
+    },
+    {
+      "name": "diary-assets/river-gpt.png",
+      "bytes": 2547009
+    },
+    {
+      "name": "diary-assets/snow-gpt.png",
+      "bytes": 2499734
+    },
+    {
+      "name": "diary-assets/town-gpt.png",
+      "bytes": 2451456
+    },
+    {
+      "name": "panorama-assets/00-museum-seam-v3.png",
+      "bytes": 2141128
+    },
+    {
+      "name": "panorama-assets/00-museum.png",
+      "bytes": 2113416
+    },
+    {
+      "name": "panorama-assets/01-redboat-seam-v2.png",
+      "bytes": 2623815
+    },
+    {
+      "name": "panorama-assets/01-redboat.png",
+      "bytes": 2684809
+    },
+    {
+      "name": "panorama-assets/02-jinggangshan-seam-v2.png",
+      "bytes": 3032617
+    },
+    {
+      "name": "panorama-assets/02-jinggangshan.png",
+      "bytes": 2996677
+    },
+    {
+      "name": "panorama-assets/03-longmarch-seam-v2.png",
+      "bytes": 3220061
+    },
+    {
+      "name": "panorama-assets/03-longmarch.png",
+      "bytes": 2976164
+    },
+    {
+      "name": "panorama-assets/04-zunyi-seam-v2.png",
+      "bytes": 2776022
+    },
+    {
+      "name": "panorama-assets/04-zunyi.png",
+      "bytes": 2755661
+    },
+    {
+      "name": "panorama-assets/05-yanan-seam-v2.png",
+      "bytes": 2701675
+    },
+    {
+      "name": "panorama-assets/05-yanan.png",
+      "bytes": 2729358
+    },
+    {
+      "name": "panorama-assets/06-xibaipo-seam-v2.png",
+      "bytes": 2853499
+    },
+    {
+      "name": "panorama-assets/06-xibaipo.png",
+      "bytes": 2809323
+    },
+    {
+      "name": "panorama-assets/07-founding-seam-v3.png",
+      "bytes": 2442504
+    },
+    {
+      "name": "panorama-assets/07-founding-v2.png",
+      "bytes": 2235913
+    },
+    {
+      "name": "panorama-assets/07-founding.png",
+      "bytes": 2432047
+    },
+    {
+      "name": "panorama-assets/08-present-seam-v2.png",
+      "bytes": 2921026
+    },
+    {
+      "name": "panorama-assets/08-present.png",
+      "bytes": 2895063
+    },
+    {
+      "name": "panorama-assets/09-jing-room.png",
+      "bytes": 2502862
+    },
+    {
+      "name": "panorama-assets/10-jing-supply.png",
+      "bytes": 3102031
+    },
+    {
+      "name": "panorama-assets/11-zunyi-room.png",
+      "bytes": 2468058
+    },
+    {
+      "name": "panorama-assets/12-yanan-room-v2.png",
+      "bytes": 2546145
+    },
+    {
+      "name": "panorama-assets/12-yanan-room.png",
+      "bytes": 2649513
+    },
+    {
+      "name": "panorama-assets/13-redboat-cabin.png",
+      "bytes": 2600393
+    },
+    {
+      "name": "panorama-assets/14-longmarch-snow.png",
+      "bytes": 2810343
+    },
+    {
+      "name": "panorama-assets/15-xibaipo-command.png",
+      "bytes": 2500980
+    },
+    {
+      "name": "panorama-assets/16-founding-square.png",
+      "bytes": 2507748
+    },
+    {
+      "name": "history-assets/red-history-map.mind",
+      "bytes": 1018262
+    },
+    {
+      "name": "history-assets/red-history-map.png",
+      "bytes": 3809193
+    },
+    {
+      "name": "ar-models/redboat.glb",
+      "bytes": 2005452
+    },
+    {
+      "name": "vendor/pannellum.js",
+      "bytes": 56249
+    },
+    {
+      "name": "vendor/pannellum.css",
+      "bytes": 9677
+    },
+    {
+      "name": "vendor/aframe.min.js",
+      "bytes": 1325299
+    },
+    {
+      "name": "vendor/mindar-image-aframe.prod.js",
+      "bytes": 1758446
+    },
+    {
+      "name": "vendor/Pannellum-LICENSE.txt",
+      "bytes": 1064
+    },
+    {
+      "name": "vendor/AFrame-LICENSE.txt",
+      "bytes": 1081
+    },
+    {
+      "name": "publication-config.js",
+      "bytes": 299
+    },
+    {
+      "name": "index.html",
+      "bytes": 332749
+    },
+    {
+      "name": "red-culture-panorama.html",
+      "bytes": 332749
+    },
+    {
+      "name": "history-map-ar-demo.html",
+      "bytes": 25504
+    },
+    {
+      "name": ".nojekyll",
+      "bytes": 0
+    },
+    {
+      "name": "vendor/来源与版本.txt",
+      "bytes": 252
+    },
+    {
+      "name": "vendor/MindAR-LICENSE.txt",
+      "bytes": 1063
+    },
+    {
+      "name": "发布说明.txt",
+      "bytes": 1842
+    }
+  ]
+}

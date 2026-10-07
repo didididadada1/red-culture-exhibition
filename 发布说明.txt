@@ -1,0 +1,24 @@
+这是公开静态发布包，不包含.env、服务日志、后端代码或开发依赖。
+
+GitHub Pages发布：
+1. 使用GitHub Desktop把本文件夹全部内容放入公开仓库根目录（index.html不能再套一层文件夹）。
+2. 提交并推送；在仓库Settings > Pages中选择Deploy from a branch、main、/(root)，保存。
+3. 使用Pages显示的HTTPS网址，电脑和手机都打开同一网址。
+
+AR测试：
+电脑打开网站，点击底部进度栏显示完整地图；手机用系统浏览器打开同一HTTPS网站，进入地图并点击开始AR扫描，允许摄像头，对准电脑地图。
+红船为真实GLB，其余地点为金色占位模型。点击模型进入对应全景；实际扫描需手机验证。
+图像目标是history-assets/red-history-map.png，.mind与此图匹配；不要裁切或改字。
+
+完整平台：index.html
+独立AR开发演示：history-map-ar-demo.html（全景为占位画面，不能代替完整平台）。
+
+本包已将图片拆分、全景/AR库本地化；必须上传所有目录。
+部分视频超过25MiB，因此本包不能完整直接上传Cloudflare Pages；建议使用GitHub Pages或支持大文件的HTTPS服务器。
+请在比赛现场网络实测加载速度。
+
+静态发布版：全景、地图、AR、视频、日记、感悟本地存储可使用。AI对话和讯飞语音未部署在线后端，界面会明确提示，不会冒充真实AI。
+后续部署后端后，在publication-config.js填写aiEndpoint和ttsEndpoint两个HTTPS网址；后端需允许网站来源并保护密钥。不要上传原.env。
+感悟存储在各参观者浏览器内，不是全网共享留言。
+背景音乐可能被浏览器阻止自动播放，需要用户点击开启。
+地图扫码链接需用发布后的真实网址生成二维码，本包尚未公开部署。
