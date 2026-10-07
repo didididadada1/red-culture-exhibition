@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
-  "fileCount": 62,
-  "totalBytes": 277138606,
+  "fileCount": 63,
+  "totalBytes": 277712555,
   "files": [
     {
       "name": "source/万疆.mp3",
@@ -184,6 +184,10 @@
       "bytes": 2507748
     },
     {
+      "name": "history-assets/red-history-map-display.jpg",
+      "bytes": 557892
+    },
+    {
       "name": "history-assets/red-history-map.mind",
       "bytes": 1018262
     },
@@ -225,15 +229,15 @@
     },
     {
       "name": "index.html",
-      "bytes": 343036
+      "bytes": 348322
     },
     {
       "name": "red-culture-panorama.html",
-      "bytes": 343036
+      "bytes": 348322
     },
     {
       "name": "history-map-ar-demo.html",
-      "bytes": 29219
+      "bytes": 34505
     },
     {
       "name": ".nojekyll",
@@ -249,7 +253,7 @@
     },
     {
       "name": "发布说明.txt",
-      "bytes": 1899
+      "bytes": 2098
     }
   ]
 }
