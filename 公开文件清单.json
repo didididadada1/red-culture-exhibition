@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
   "fileCount": 109,
-  "totalBytes": 296147520,
+  "totalBytes": 296218224,
   "files": [
     {
       "name": "source/万疆.mp3",
@@ -413,11 +413,11 @@
     },
     {
       "name": "index.html",
-      "bytes": 397529
+      "bytes": 432732
     },
     {
       "name": "red-culture-panorama.html",
-      "bytes": 397529
+      "bytes": 432732
     },
     {
       "name": "history-map-ar-demo.html",
@@ -437,7 +437,7 @@
     },
     {
       "name": "发布说明.txt",
-      "bytes": 3636
+      "bytes": 3934
     }
   ]
 }
