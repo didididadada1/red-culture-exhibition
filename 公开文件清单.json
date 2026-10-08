@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
-  "fileCount": 65,
-  "totalBytes": 277860783,
+  "fileCount": 99,
+  "totalBytes": 287109497,
   "files": [
     {
       "name": "source/万疆.mp3",
@@ -184,6 +184,142 @@
       "bytes": 2507748
     },
     {
+      "name": "panorama-assets/mobile-founding-low.jpg",
+      "bytes": 112288
+    },
+    {
+      "name": "panorama-assets/mobile-founding-square-low.jpg",
+      "bytes": 94660
+    },
+    {
+      "name": "panorama-assets/mobile-founding-square.jpg",
+      "bytes": 351537
+    },
+    {
+      "name": "panorama-assets/mobile-founding.jpg",
+      "bytes": 379394
+    },
+    {
+      "name": "panorama-assets/mobile-jing-room-low.jpg",
+      "bytes": 96301
+    },
+    {
+      "name": "panorama-assets/mobile-jing-room.jpg",
+      "bytes": 353010
+    },
+    {
+      "name": "panorama-assets/mobile-jing-supply-low.jpg",
+      "bytes": 151254
+    },
+    {
+      "name": "panorama-assets/mobile-jing-supply.jpg",
+      "bytes": 518332
+    },
+    {
+      "name": "panorama-assets/mobile-jinggangshan-low.jpg",
+      "bytes": 157147
+    },
+    {
+      "name": "panorama-assets/mobile-jinggangshan.jpg",
+      "bytes": 534722
+    },
+    {
+      "name": "panorama-assets/mobile-longmarch-low.jpg",
+      "bytes": 171070
+    },
+    {
+      "name": "panorama-assets/mobile-longmarch-snow-low.jpg",
+      "bytes": 129552
+    },
+    {
+      "name": "panorama-assets/mobile-longmarch-snow.jpg",
+      "bytes": 430006
+    },
+    {
+      "name": "panorama-assets/mobile-longmarch.jpg",
+      "bytes": 573806
+    },
+    {
+      "name": "panorama-assets/mobile-museum-low.jpg",
+      "bytes": 87464
+    },
+    {
+      "name": "panorama-assets/mobile-museum.jpg",
+      "bytes": 298293
+    },
+    {
+      "name": "panorama-assets/mobile-present-low.jpg",
+      "bytes": 141367
+    },
+    {
+      "name": "panorama-assets/mobile-present.jpg",
+      "bytes": 493729
+    },
+    {
+      "name": "panorama-assets/mobile-redboat-cabin-low.jpg",
+      "bytes": 109508
+    },
+    {
+      "name": "panorama-assets/mobile-redboat-cabin.jpg",
+      "bytes": 390185
+    },
+    {
+      "name": "panorama-assets/mobile-redboat-low.jpg",
+      "bytes": 123342
+    },
+    {
+      "name": "panorama-assets/mobile-redboat.jpg",
+      "bytes": 421982
+    },
+    {
+      "name": "panorama-assets/mobile-xibaipo-command-low.jpg",
+      "bytes": 98776
+    },
+    {
+      "name": "panorama-assets/mobile-xibaipo-command.jpg",
+      "bytes": 356415
+    },
+    {
+      "name": "panorama-assets/mobile-xibaipo-low.jpg",
+      "bytes": 136434
+    },
+    {
+      "name": "panorama-assets/mobile-xibaipo.jpg",
+      "bytes": 473492
+    },
+    {
+      "name": "panorama-assets/mobile-yanan-low.jpg",
+      "bytes": 131535
+    },
+    {
+      "name": "panorama-assets/mobile-yanan-room-low.jpg",
+      "bytes": 97146
+    },
+    {
+      "name": "panorama-assets/mobile-yanan-room.jpg",
+      "bytes": 362018
+    },
+    {
+      "name": "panorama-assets/mobile-yanan.jpg",
+      "bytes": 445226
+    },
+    {
+      "name": "panorama-assets/mobile-zunyi-low.jpg",
+      "bytes": 131091
+    },
+    {
+      "name": "panorama-assets/mobile-zunyi-room-low.jpg",
+      "bytes": 94694
+    },
+    {
+      "name": "panorama-assets/mobile-zunyi-room.jpg",
+      "bytes": 345237
+    },
+    {
+      "name": "panorama-assets/mobile-zunyi.jpg",
+      "bytes": 448662
+    },
+    {
       "name": "history-assets/red-history-map-display.jpg",
       "bytes": 557892
     },
@@ -233,15 +369,15 @@
     },
     {
       "name": "publication-config.js",
-      "bytes": 299
+      "bytes": 422
     },
     {
       "name": "index.html",
-      "bytes": 370919
+      "bytes": 375227
     },
     {
       "name": "red-culture-panorama.html",
-      "bytes": 370919
+      "bytes": 375227
     },
     {
       "name": "history-map-ar-demo.html",
@@ -261,7 +397,7 @@
     },
     {
       "name": "发布说明.txt",
-      "bytes": 2746
+      "bytes": 3046
     }
   ]
 }
