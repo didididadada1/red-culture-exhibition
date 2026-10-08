@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
-  "fileCount": 63,
-  "totalBytes": 277712555,
+  "fileCount": 65,
+  "totalBytes": 277836048,
   "files": [
     {
       "name": "source/万疆.mp3",
@@ -216,6 +216,10 @@
       "bytes": 1758446
     },
     {
+      "name": "vendor/peerjs.min.js",
+      "bytes": 86948
+    },
+    {
       "name": "vendor/Pannellum-LICENSE.txt",
       "bytes": 1064
     },
@@ -224,20 +228,24 @@
       "bytes": 1081
     },
     {
+      "name": "vendor/PeerJS-LICENSE.txt",
+      "bytes": 1108
+    },
+    {
       "name": "publication-config.js",
       "bytes": 299
     },
     {
       "name": "index.html",
-      "bytes": 348322
+      "bytes": 359983
     },
     {
       "name": "red-culture-panorama.html",
-      "bytes": 348322
+      "bytes": 359983
     },
     {
       "name": "history-map-ar-demo.html",
-      "bytes": 34505
+      "bytes": 45978
     },
     {
       "name": ".nojekyll",
@@ -253,7 +261,7 @@
     },
     {
       "name": "发布说明.txt",
-      "bytes": 2098
+      "bytes": 2740
     }
   ]
 }
