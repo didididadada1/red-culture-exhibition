@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
-  "fileCount": 99,
-  "totalBytes": 287109497,
+  "fileCount": 106,
+  "totalBytes": 294243714,
   "files": [
     {
       "name": "source/万疆.mp3",
@@ -332,6 +332,18 @@
       "bytes": 3809193
     },
     {
+      "name": "ar-models/jinggangshan-scene.glb",
+      "bytes": 4047332
+    },
+    {
+      "name": "ar-models/longmarch-scene.glb",
+      "bytes": 1021940
+    },
+    {
+      "name": "ar-models/redboat-scene.glb",
+      "bytes": 997464
+    },
+    {
       "name": "ar-models/redboat.glb",
       "bytes": 2005452
     },
@@ -368,20 +380,36 @@
       "bytes": 1108
     },
     {
+      "name": "vendor/draco/draco_decoder.js",
+      "bytes": 709590
+    },
+    {
+      "name": "vendor/draco/draco_wasm_wrapper.js",
+      "bytes": 58916
+    },
+    {
+      "name": "vendor/draco/draco_decoder.wasm",
+      "bytes": 283091
+    },
+    {
+      "name": "vendor/draco/LICENSE.txt",
+      "bytes": 13898
+    },
+    {
       "name": "publication-config.js",
       "bytes": 422
     },
     {
       "name": "index.html",
-      "bytes": 375227
+      "bytes": 375832
     },
     {
       "name": "red-culture-panorama.html",
-      "bytes": 375227
+      "bytes": 375832
     },
     {
       "name": "history-map-ar-demo.html",
-      "bytes": 48835
+      "bytes": 49396
     },
     {
       "name": ".nojekyll",
@@ -397,7 +425,7 @@
     },
     {
       "name": "发布说明.txt",
-      "bytes": 3046
+      "bytes": 3261
     }
   ]
 }
