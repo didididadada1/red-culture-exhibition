@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
-  "fileCount": 106,
-  "totalBytes": 294243714,
+  "fileCount": 109,
+  "totalBytes": 296114433,
   "files": [
     {
       "name": "source/万疆.mp3",
@@ -332,12 +332,24 @@
       "bytes": 3809193
     },
     {
+      "name": "ar-models/jinggangshan-object.glb",
+      "bytes": 1314760
+    },
+    {
       "name": "ar-models/jinggangshan-scene.glb",
       "bytes": 4047332
     },
     {
+      "name": "ar-models/longmarch-object.glb",
+      "bytes": 309772
+    },
+    {
       "name": "ar-models/longmarch-scene.glb",
       "bytes": 1021940
+    },
+    {
+      "name": "ar-models/redboat-object.glb",
+      "bytes": 213808
     },
     {
       "name": "ar-models/redboat-scene.glb",
@@ -401,15 +413,15 @@
     },
     {
       "name": "index.html",
-      "bytes": 375832
+      "bytes": 386543
     },
     {
       "name": "red-culture-panorama.html",
-      "bytes": 375832
+      "bytes": 386543
     },
     {
       "name": "history-map-ar-demo.html",
-      "bytes": 49396
+      "bytes": 60107
     },
     {
       "name": ".nojekyll",
@@ -425,7 +437,7 @@
     },
     {
       "name": "发布说明.txt",
-      "bytes": 3261
+      "bytes": 3507
     }
   ]
 }
