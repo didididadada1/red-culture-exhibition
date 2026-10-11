@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
-  "fileCount": 109,
-  "totalBytes": 296221480,
+  "fileCount": 117,
+  "totalBytes": 309410532,
   "files": [
     {
       "name": "source/万疆.mp3",
@@ -332,6 +332,14 @@
       "bytes": 3809193
     },
     {
+      "name": "ar-models/founding-object.glb",
+      "bytes": 2936872
+    },
+    {
+      "name": "ar-models/founding-scene.glb",
+      "bytes": 3336684
+    },
+    {
       "name": "ar-models/jinggangshan-object.glb",
       "bytes": 1314760
     },
@@ -358,6 +366,30 @@
     {
       "name": "ar-models/redboat.glb",
       "bytes": 2005452
+    },
+    {
+      "name": "ar-models/xibaipo-object.glb",
+      "bytes": 994540
+    },
+    {
+      "name": "ar-models/xibaipo-scene.glb",
+      "bytes": 1996936
+    },
+    {
+      "name": "ar-models/yanan-object.glb",
+      "bytes": 135696
+    },
+    {
+      "name": "ar-models/yanan-scene.glb",
+      "bytes": 1350368
+    },
+    {
+      "name": "ar-models/zunyi-object.glb",
+      "bytes": 809036
+    },
+    {
+      "name": "ar-models/zunyi-scene.glb",
+      "bytes": 1628120
     },
     {
       "name": "vendor/pannellum.js",
@@ -413,15 +445,15 @@
     },
     {
       "name": "index.html",
-      "bytes": 434360
+      "bytes": 434652
     },
     {
       "name": "red-culture-panorama.html",
-      "bytes": 434360
+      "bytes": 434652
     },
     {
       "name": "history-map-ar-demo.html",
-      "bytes": 71093
+      "bytes": 71309
     },
     {
       "name": ".nojekyll",
