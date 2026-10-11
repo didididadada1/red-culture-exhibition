@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
   "fileCount": 117,
-  "totalBytes": 309410532,
+  "totalBytes": 297331695,
   "files": [
     {
       "name": "source/万疆.mp3",
@@ -333,35 +333,35 @@
     },
     {
       "name": "ar-models/founding-object.glb",
-      "bytes": 2936872
+      "bytes": 966024
     },
     {
       "name": "ar-models/founding-scene.glb",
-      "bytes": 3336684
+      "bytes": 1902728
     },
     {
       "name": "ar-models/jinggangshan-object.glb",
-      "bytes": 1314760
+      "bytes": 284136
     },
     {
       "name": "ar-models/jinggangshan-scene.glb",
-      "bytes": 4047332
+      "bytes": 1780952
     },
     {
       "name": "ar-models/longmarch-object.glb",
-      "bytes": 309772
+      "bytes": 85360
     },
     {
       "name": "ar-models/longmarch-scene.glb",
-      "bytes": 1021940
+      "bytes": 455284
     },
     {
       "name": "ar-models/redboat-object.glb",
-      "bytes": 213808
+      "bytes": 51160
     },
     {
       "name": "ar-models/redboat-scene.glb",
-      "bytes": 997464
+      "bytes": 481896
     },
     {
       "name": "ar-models/redboat.glb",
@@ -369,27 +369,27 @@
     },
     {
       "name": "ar-models/xibaipo-object.glb",
-      "bytes": 994540
+      "bytes": 272920
     },
     {
       "name": "ar-models/xibaipo-scene.glb",
-      "bytes": 1996936
+      "bytes": 876736
     },
     {
       "name": "ar-models/yanan-object.glb",
-      "bytes": 135696
+      "bytes": 340252
     },
     {
       "name": "ar-models/yanan-scene.glb",
-      "bytes": 1350368
+      "bytes": 540028
     },
     {
       "name": "ar-models/zunyi-object.glb",
-      "bytes": 809036
+      "bytes": 213980
     },
     {
       "name": "ar-models/zunyi-scene.glb",
-      "bytes": 1628120
+      "bytes": 758916
     },
     {
       "name": "vendor/pannellum.js",
@@ -445,15 +445,15 @@
     },
     {
       "name": "index.html",
-      "bytes": 434652
+      "bytes": 436025
     },
     {
       "name": "red-culture-panorama.html",
-      "bytes": 434652
+      "bytes": 436025
     },
     {
       "name": "history-map-ar-demo.html",
-      "bytes": 71309
+      "bytes": 72682
     },
     {
       "name": ".nojekyll",
